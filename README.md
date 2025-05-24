@@ -10,13 +10,13 @@
 
   <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
 
-  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
+  <script src="https://thewinner.in"></script>
 
 </head>
 
 <body>
 
-  <h2>THE WINNER - Real Earning App</h2>
+  <h2>THE WINNER </h2>
 
 
   <div id="authSection">
@@ -27,7 +27,7 @@
 
     <br><br>
 
-    <button onclick="signUp()">Sign Up</button>
+    <button onclick="signUp(..thewinner.in)">Sign Up</button>
 
     <button onclick="login()">Login</button>
 
